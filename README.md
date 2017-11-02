@@ -1,5 +1,5 @@
 # Higher-order Integration of Hierarchical Convolutional Activations for Fine-grained Visual Categorization
-This implementation of “Higher-order Integration of Hierarchical Convolutional Activations for Fine-grained Visual Categorization” by Sijia Cai, Wangmeng Zuo and Lei Zhang.
+The implementation of “Higher-order Integration of Hierarchical Convolutional Activations for Fine-grained Visual Categorization” by Sijia Cai, Wangmeng Zuo and Lei Zhang.
 
 ## Environment
 - Ubuntu 14.04
