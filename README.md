@@ -20,21 +20,21 @@ Coming soon …
 ## Citation
 If you find the codes of this repository useful, please cite the following paper:
 
-``
-@inproceedings{cai2017higher,
+```
+`@inproceedings{cai2017higher,
   title={Higher-Order Integration of Hierarchical Convolutional Activations for Fine-Grained Visual Categorization},
   author={Cai, Sijia and Zuo, Wangmeng and Zhang, Lei},
   booktitle={Proceedings of International Conference on Computer Vision},
   pages={511--520},
   year={2017}
 }
-``
-
+```
+`
 ## Contact
 For any question, please contact
-``
-cssjcai@gmail.com
-``
+```
+`cssjcai@gmail.com
+````
 
 [1]:	http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 [2]:	http://www.robots.ox.ac.uk/%5C~vgg/data/fgvc-aircraft/
