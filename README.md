@@ -9,32 +9,32 @@ The implementation of “Higher-order Integration of Hierarchical Convolutional 
 ## Usage
 - First you need to download the FGVC datasets (**[CUB][1]**, **[Aircraft][2]** 
 	and **[Cars][3]**) and unzip them into the folder “./datasets”
-- Download the pretrained **[VGG16][4]** model and put it into the folder “./models/pretrainedmodels”
-- Compile MatConvNet with the GPU and cuDNN support
-- Train: run hihcamain.m by setting runPhase=train
-- Test: run hihcamain.m by setting runPhase=test
+- Download the pretrained **[VGG16][4]** model and put it into the folder “./models/pretrained\_models”
+- Compile MatConvNet with GPU and the cuDNN support
+- Train: run hihca\_main.m by setting runPhase=train
+- Test: run hihca\_main.m by setting runPhase=test
 
-## Trained models and visualization
+## Trained models 
 Coming soon …
 
 ## Citation
 If you find the codes of this repository useful, please cite the following paper:
 
-```
-`@inproceedings{cai2017higher,
+``
+@inproceedings{cai2017higher,
   title={Higher-Order Integration of Hierarchical Convolutional Activations for Fine-Grained Visual Categorization},
   author={Cai, Sijia and Zuo, Wangmeng and Zhang, Lei},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  booktitle={Proceedings of International Conference on Computer Vision},
   pages={511--520},
   year={2017}
 }
-```
-`
+``
+
 ## Contact
 For any question, please contact
-```
-`cssjcai@gmail.com
-````
+``
+cssjcai@gmail.com
+``
 
 [1]:	http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 [2]:	http://www.robots.ox.ac.uk/%5C~vgg/data/fgvc-aircraft/
