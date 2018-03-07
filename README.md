@@ -14,9 +14,6 @@ The implementation of “Higher-order Integration of Hierarchical Convolutional 
 - Train: run hihca\_main.m by setting runPhase=train
 - Test: run hihca\_main.m by setting runPhase=test
 
-## Trained models 
-Coming soon …
-
 ## Citation
 If you find the codes of this repository useful, please cite the following paper:
 
